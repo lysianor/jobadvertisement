@@ -9,7 +9,7 @@
 
 ## Laravel 5.8
 
-## Home Page
+### Home Page
 
 <img src="Prototype/Home_page.png" height="300px">
 
