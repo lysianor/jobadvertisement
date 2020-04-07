@@ -13,6 +13,26 @@
 
 <img src="Prototype/Home_page.png" height="300px">
 
+### Browse Jobs
+
+<img src="Prototype/Browse_jobs.png" height="300px">
+
+### Browse Companies
+
+<img src="Prototype/Browse_companies.png" height="300px">
+
+### Sign In Page
+
+<img src="Prototype/Sign_in.png" height="300px">
+
+### Sign Up Page
+
+<img src="Prototype/Sign_up.png" height="300px">
+
+## Demo
+
+You can try the live demo : www.gainstrongm.xyz
+
 
 ## How to use
 
