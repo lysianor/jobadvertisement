@@ -9,9 +9,9 @@
 
 ## Laravel 5.8
 
-## Images
+## Home Page
 
-![Image description](Prototype/Home.png)
+<img src="Prototype/Home_page.png" height="300px">
 
 
 ## How to use
