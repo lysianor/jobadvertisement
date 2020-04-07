@@ -33,6 +33,8 @@
 
 You can try the live demo : www.gainstrongm.xyz
 
+You can check the Prototype here: https://github.com/lysianor/jobadvertisement/tree/master/Prototype
+
 
 ## How to use
 
