@@ -33,6 +33,8 @@
 
 You can try the live demo : www.gainstrongm.xyz
 
+Admin credentials __admin@admin.com__ - __Asda231!__
+
 You can check the Prototype here: https://github.com/lysianor/jobadvertisement/tree/master/Prototype
 
 
